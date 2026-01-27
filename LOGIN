@@ -94,10 +94,10 @@ int main(){
 			}
 	cout<<"TOTAL DE PUNTOS = "<<cont;
 	cout<<"LA MOTO COM MAS PUNTOS ES  = "<<lista[pos].placa<<endl;
-	cout<<"SU DUEÑO ES  = "<<lista[pos].propietario<<endl<<endl;
+	cout<<"SU DUEÃ‘O ES  = "<<lista[pos].propietario<<endl<<endl;
 	cout<<"con un total de  = "<<lista[pos].puntos<<endl;
 	cout<<"LA MOTO COM MENOS PUNTOS ES  = "<<lista[pos2].placa<<endl;
-	cout<<"SU DUEÑO ES  = "<<lista[pos2].propietario<<endl<<endl;
+	cout<<"SU DUEÃ‘O ES  = "<<lista[pos2].propietario<<endl<<endl;
 	cout<<"con un total de  = "<<lista[pos2].puntos<<endl;
 	
 	return 0;
